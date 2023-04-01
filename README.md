@@ -6,8 +6,8 @@
 
 Сервер ZIP: https://github.com/CrazorTheCat/BSDS-V44/archive/refs/heads/master.zip
 
-## Requirements: ##
-1. a brain...
+## Требование: ##
+1. мозги и прямые руки...
 
 ## Как играть в Artur Star 3D: ##
 1. скачать сервер и апк файл
