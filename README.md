@@ -4,7 +4,7 @@
 
 АНДРОИД 2 (GOOGLE DRIVE) : https://drive.google.com/file/d/1zKy632blJDJV7YuBnUZe18Pxpra2lvm5/view?usp=sharing
 
-Сервер ZIP: https://github.com/CrazorTheCat/BSDS-V44/archive/refs/heads/master.zip
+Сервер ZIP: https://github.com/XeltonOsu/Artur-Stars-3D.git
 
 ## Требование: ##
 1. мозги и прямые руки...
